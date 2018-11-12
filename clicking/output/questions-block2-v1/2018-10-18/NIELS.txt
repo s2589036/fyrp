@@ -1,0 +1,12 @@
+Gender: male, Age: 24
+Begin_test: 2018-10-18 12:41:27
+Time: 12:41:28, Seconds: 1539859288.6237, Type: practice, Question: trapsent-0, Answer: false (food11)
+Time: 12:41:29, Seconds: 1539859289.4888, Type: practice, Question: trapsent-1, Answer: false (food10)
+Time: 12:41:30, Seconds: 1539859290.1075, Type: practice, Question: trapsent-2, Answer: false (kitchen10)
+Time: 12:41:30, Seconds: 1539859290.6742, Type: practice, Question: trapsent-3, Answer: false (tool9)
+Time: 12:41:31, Seconds: 1539859291.3593, Type: practice, Question: mesting-4, Answer: true (tool12)
+Time: 12:41:31, Seconds: 1539859291.9228, Type: practice, Question: mesting-5, Answer: false (food11)
+Time: 12:41:32, Seconds: 1539859292.4828, Type: practice, Question: mesting-6, Answer: false (kitchen9)
+Time: 12:41:33, Seconds: 1539859293.0225, Type: practice, Question: mesting-7, Answer: false (desk9)
+Time: 12:41:33, Seconds: 1539859293.7504, Type: practice, Question: claster-8, Answer: false (tool9)
+Time: 12:41:34, Seconds: 1539859294.2691, Type: practice, Question: claster-9, Answer: true (food12)

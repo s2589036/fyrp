@@ -1,0 +1,11 @@
+Gender: male, Age: 24, Extra_months: 0
+Begin_test: 2018-05-05 15:10:42
+Time: 15:10:44, Seconds: 1525525844.1713, Type: practice, Question: trapsent-0, Answer: true (mask12)
+Time: 15:10:44, Seconds: 1525525844.7473, Type: practice, Question: trapsent-1, Answer: false (dog10)
+Time: 15:10:45, Seconds: 1525525845.2587, Type: practice, Question: trapsent-2, Answer: false (leaf10)
+Time: 15:10:45, Seconds: 1525525845.7336, Type: practice, Question: trapsent-3, Answer: false (leaf9)
+Time: 15:10:46, Seconds: 1525525846.3874, Type: practice, Question: mesting-4, Answer: false (dog15)
+Time: 15:10:46, Seconds: 1525525846.8836, Type: practice, Question: mesting-5, Answer: true (leaf12)
+Time: 15:10:47, Seconds: 1525525847.4056, Type: practice, Question: mesting-6, Answer: true (leaf12)
+Time: 15:10:48, Seconds: 1525525848.0517, Type: practice, Question: mesting-7, Answer: false (dog9)
+Time: 15:10:48, Seconds: 1525525848.583, Type: practice, Question: claster-8, Answer: false (mask11)
